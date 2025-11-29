@@ -1,10 +1,12 @@
-<<<<<<< HEAD
+This is the main code
 jhbv sdjb bj d qwbjd 
 this is only for testing
 hi i am is done from my work
 =======
 jhbv
->>>>>>> cd48e968f901a9a08fc114f9d4853613f8e1bead
 
+I rkndc 
 
 gvjbhbnnm
+=======
+
